@@ -1,0 +1,33 @@
+body {
+
+    margin: 0;
+
+    overflow: hidden;
+
+    background: black;
+
+    font-family: Arial;
+
+}
+
+#ui {
+
+    position: absolute;
+
+    top: 20px;
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    color: white;
+
+    padding: 0 50px;
+
+    font-size: 30px;
+
+    z-index: 10;
+
+}
